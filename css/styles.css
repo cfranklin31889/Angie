@@ -1,0 +1,260 @@
+/*--This is the color palette
+  #f5f5f5
+  #e0dede
+  #ffa5b0
+  #6a197d
+  */
+
+.footer-link	{
+	margin: 5px 10px;
+}
+
+.cp	{
+	color:#f5f5f5; 
+	font-size: 70%;
+}
+
+.copy	{
+	background-color:  #e0dede;
+	margin:0;
+	padding: 30px 0 20px;
+}
+	
+
+a {
+font-family: 'Open Sans', sans-serif;
+color: #ffa5b0;
+text-decoration: none;
+}
+
+.ang-1 {
+	position: relative;
+	margin: 0 auto 4rem auto;
+	top: 2rem;
+	width: 31%;
+	line-height: 2;
+}
+
+.angela {
+	border-radius: 50%;
+	width: 15%;
+	position: relative;
+	top: 5rem;
+}
+
+body {
+  text-align: center;
+	margin: 0;
+}
+
+.box-1 {
+  background-color: #f5f5f5;
+  height: auto;
+  width: auto;
+
+}
+
+.box-2 {
+background-color: white;
+
+}
+
+.bottom-cloud {
+	position: relative;
+		bottom: 18rem;
+	right: 2rem;
+	
+		
+}
+
+
+
+.button {
+	<style type="text/css">
+	font-family: 'Open Sans', sans-serif;
+	margin: 3rem auto;
+		
+	
+ {
+	background-color:#ffa5b0;
+	-webkit-border-top-left-radius:9px;
+	-moz-border-radius-topleft:9px;
+	border-top-left-radius:9px;
+	-webkit-border-top-right-radius:9px;
+	-moz-border-radius-topright:9px;
+	border-top-right-radius:9px;
+	-webkit-border-bottom-right-radius:9px;
+	-moz-border-radius-bottomright:9px;
+	border-bottom-right-radius:9px;
+	-webkit-border-bottom-left-radius:9px;
+	-moz-border-radius-bottomleft:9px;
+	border-bottom-left-radius:9px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.button:hover {
+	background-color:#6b197d;
+}.button:active {
+	position:relative;
+	top:1px;
+}</style>
+}
+
+.design1 {
+	line-height: 2;
+	top: 2rem;
+	
+}
+
+.design-box {
+	width: 50%;
+
+	margin: 0 auto;
+}
+
+.design-box2 {
+	text-align: left;
+	left: 5rem;
+}
+
+.footer {
+  font-family: 'Open Sans', sans-serif;
+  color: #f5f5f5;	
+
+}
+
+.get {text-align: center;}
+h1 {
+  font-family: 'Zeyada', cursive;
+color: #e0dede;
+font-size: 7rem;
+	position: relative;
+	top: 3rem;
+
+}
+
+.get1 {
+	width: 500px;
+	margin: 0 auto;
+			
+}
+
+.get-txt {
+	font-size: 2.6rem;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  color: #e0dede;
+	font-size: 4rem
+}
+
+h3 {
+	color:  #ffa5b0;
+	font-family: 'Open Sans', sans-serif;
+	
+	
+}
+
+.h3d{
+	margin: 0;
+	
+	position: relative;
+}
+
+
+.hello {
+font-size: 2.5rem;
+	position: relative;
+	top: 3rem;
+	margin: 4rem auto;
+	
+}
+
+.hot1 {
+	line-height: 2;
+	top: 2rem;
+	
+}
+
+.hot-box	{
+	width: 50%;
+	margin: 20px auto;
+	top: 5rem;
+	position: relative;
+	text-align: right;
+	
+	
+}
+
+hr { border-style: dotted;
+	color: #f5f5f5;
+	width: 5%;
+	border-bottom: none;
+	border-width: .5rem;
+	margin: 10rem auto 5rem auto;
+}
+.link {
+	background-color: #e0dede;
+	margin-top: 2rem;		
+	
+	
+	
+}
+.mountain {
+	position: relative;
+	right: 5rem;
+}
+.musician {
+width: 25%;
+	float: left;
+	margin-right: 30px;
+
+	
+
+}
+
+p {
+  color: #6a197d;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.play {
+	width: 20%;
+	float: right;
+	margin-left: 30px;
+
+}
+.pro  {
+  text-decoration: underline;
+    
+}
+
+.program {
+	position: relative;
+	top: -1rem;
+	font-size: 2rem;
+}
+
+.skills {
+	font-size: 3rem;
+	padding-bottom: 3rem;
+}
+
+.top-cloud {
+position: relative;
+  top: 2rem;
+  left: 20rem;
+
+}
